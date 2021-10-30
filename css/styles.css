@@ -11700,9 +11700,10 @@ model-viewer{
     
   margin-left: auto;
   margin-right: auto;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
   text-align: center;
+  text-transform: uppercase;
 }
 
 
@@ -11716,9 +11717,10 @@ model-viewer{
         color: transparent;
         margin-left: auto;
       margin-right: auto;
-      font-size: 4rem;
+      font-size: 3rem;
       font-weight: 900;
       text-align: center;
+      text-transform: uppercase;
 }
 
 
